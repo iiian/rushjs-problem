@@ -1,0 +1,16 @@
+{
+  "name": "rush-common",
+  "version": "0.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "@rush-temp/dependency": {
+      "version": "file:projects/dependency.tgz",
+      "integrity": "sha512-YmQLhC+jm6CD+JJgjTN83Kwl2ow5P/N1Mu65e9BGNm6CaNhKXN55iWLucMv9GYXebO8bJ8MB791862FOo/lU1A=="
+    },
+    "@rush-temp/main-app": {
+      "version": "file:projects/main-app.tgz",
+      "integrity": "sha512-0Volwhvs8zoHhB1gV/cFNpkfhRcKvWIsPh8zzxUMHv51e+ueVDf8OM0TamXV2RzSwfcfBhJcRtjd/cp0vgdEsA=="
+    }
+  }
+}
